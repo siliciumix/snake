@@ -17,7 +17,7 @@ pygame.display.set_caption('Snake Spiel')
 
 clock = pygame.time.Clock()
 snake_block = 10
-snake_speed = 2800
+snake_speed = 28
 
 font_style = pygame.font.SysFont(None, 50)
 score_font = pygame.font.SysFont(None, 35)
